@@ -1,0 +1,21 @@
+.aditya {
+  position: absolute;
+  top: 8px;
+  font-size: 1.8rem;
+  margin-left: 36px;
+  color: #ce5ff8 !important;
+  font-family: Chewy;
+  cursor: pointer;
+}
+
+@media (max-width: 924px) {
+  .aditya {
+    top: 12px;
+  }
+}
+
+@media (max-width: 600px) {
+  .aditya {
+    top: 16px;
+  }
+}

@@ -1,10 +1,11 @@
-import './App.css';
+import { BrowserRouter } from "react-router-dom";
+import BaseRoutes from "./routes/BaseRoutes";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello there</h1>
-    </div>
+    <BrowserRouter>
+      <BaseRoutes />
+    </BrowserRouter>
   );
 }
 

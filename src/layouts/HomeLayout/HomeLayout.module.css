@@ -1,0 +1,8 @@
+.layout {
+  background-image: var(--bg-layout-home);
+  background-color: var(--txt);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
