@@ -14,7 +14,7 @@
 
 .navBar a {
   font-size: 1.2rem;
-  background-color: var(--txt);
+  color: var(--txt);
   text-decoration: none;
   transition: all 0.35s ease-out 0s;
 }

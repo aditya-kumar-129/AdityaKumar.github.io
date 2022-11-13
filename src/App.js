@@ -1,11 +1,16 @@
+// import "./styles/main.css"; 
+import { Suspense } from "react";
 import { BrowserRouter } from "react-router-dom";
 import BaseRoutes from "./routes/BaseRoutes";
+import Preloader from "./components/UIElements/Preloader/Preloader";
 
 function App() {
   return (
-    <BrowserRouter>
-      <BaseRoutes />
-    </BrowserRouter>
+    <Suspense fallback={<Preloader />}>
+      <BrowserRouter>
+        <BaseRoutes />
+      </BrowserRouter>
+    </Suspense>
   );
 }
 
