@@ -1,4 +1,4 @@
-// import "./styles/main.css"; 
+import "./styles/main.css";
 import { Suspense } from "react";
 import { BrowserRouter } from "react-router-dom";
 import BaseRoutes from "./routes/BaseRoutes";
