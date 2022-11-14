@@ -19,7 +19,7 @@ const MainNavigation = () => {
       <Logo className={classes.desktop} />
       <nav className={classes.desktop}>
         <NavLinks />
-        <BtnToggleTheme />
+        {/* <BtnToggleTheme /> */}
       </nav>
 
       {/* <Media query={{ maxWidth: 1024 }}>
