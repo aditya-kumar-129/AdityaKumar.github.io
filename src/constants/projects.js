@@ -6,7 +6,7 @@ export const PROJECTS = [
     id: "1",
     title: "Bug Tracker",
     description:
-      "Bug Tracker is a PROJECT MANAGEMENT tool where you can track the status of a projects including the bugs that occur during making the project along with the features such as seriousness of the Bug, the date at which the bug occurs, the person who has to solve the bug",
+      "Bug Tracker is a PROJECT MANAGEMENT tool where you can track the status of a projects including the bugs that occur during making the project along with the features such as seriousness of the Bug, the date at which the bug occurs, the person who has to solve the bug.",
     image: {
       src: BugTracker,
       placeholderSrc:
@@ -22,7 +22,7 @@ export const PROJECTS = [
     id: "2",
     title: "Social Network",
     description:
-      "A WEB APPLICATION used for connecting to friends and broadcast post. It works mostly like the way LINKEDIN works.(IN PROGRESS)",
+      "A WEB APPLICATION used for connecting to friends and broadcast post. It works mostly like the way LINKEDIN works.(IN PROGRESS).",
     image: {
       src: `${SocialNetwork}`,
       placeholderSrc:
@@ -45,7 +45,7 @@ export const PROJECTS = [
     id: "3",
     title: "DOPIFY",
     description:
-      "Its a Web APPLICATION used to DECREASE THE NUMBER OF DOPING CASES THAT OCCURS DURING ANY INTERNATIONAL GAMES and RO MAKE THE ATHLETIC AWARE ABOUT THE USE OF DRUGS AND ITS CONSEQUENCES",
+      "Its a Web APPLICATION used to DECREASE THE NUMBER OF DOPING CASES THAT OCCURS DURING ANY INTERNATIONAL GAMES and TO MAKE THE ATHLETIC PLAYERS AWARE ABOUT THE USE OF DRUGS AND ITS CONSEQUENCES.",
     image: {
       src: Dopify,
       placeholderSrc:

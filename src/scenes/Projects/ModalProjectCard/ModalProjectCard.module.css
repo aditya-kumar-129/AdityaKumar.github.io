@@ -45,7 +45,7 @@
 
 .technologies > span {
   display: inline-block;
-  color: #000;
+  color: white !important;
   border-style: solid;
   border-color: transparent;
   border-width: 1px;
@@ -55,5 +55,5 @@
   font-size: 80%;
   font-weight: 600;
   color: var(--tags-txt);
-  background-color: #000;
+  background-color: #623686;
 }
