@@ -1,0 +1,10 @@
+.annotationLayer .linkAnnotation > a:hover,
+.annotationLayer .buttonWidgetAnnotation.pushButton > a:hover {
+  opacity: 0.2;
+  background: none !important;
+  box-shadow: none !important;
+}
+
+.annotationLayer section {
+  border-width: 0px !important;
+}

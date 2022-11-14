@@ -32,7 +32,7 @@
 }
 
 .mainName {
-  background-color: var(--txt-sec-darcker);
+  color: var(--txt-sec-darcker);
   text-transform: uppercase;
 }
 
